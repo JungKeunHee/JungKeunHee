@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=80dfff&height=120&text=Welcom&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=80dfff&height=120&text=Welcome&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 개발자를 향해 공부하고 있는 정근희 입니다. </h2>  
