@@ -6,15 +6,13 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+JungKeunHee;" alt="Typing SVG" /></a>
 
-<!-- My CV/resume -->
-
 
 <div align="center">  
     
 ## 🔥My Motto🔥
-<p> 🧑‍🤝‍🧑알려주고 싶은 개발자 되기🧑‍🤝‍🧑 </p>
-<p> 🙌주변사람 민폐끼치지 않기🙌</p>
-<p> 😄항상 긍정적인 생각 갖기😄</p>
+<p> 🧑‍🤝‍🧑<b>알려주고 싶은 개발자 되기</b>🧑‍🤝‍🧑 </p>
+<p> 🙌<b>주변사람 민폐끼치지 않기</b>🙌</p>
+<p> 😄<b>항상 긍정적인 생각 갖기</b>😄</p>
 
 ## 📚Tech Stack📚
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -37,7 +35,7 @@
 <span>
     <a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>&nbsp
     <a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
-  
+    <a href="https://www.notion.so/416d316b7dcf4ecabb2e0d353e352062"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/416d316b7dcf4ecabb2e0d353e352062"/></a>
     
 </span>
 
