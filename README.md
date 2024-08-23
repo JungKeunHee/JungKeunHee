@@ -14,7 +14,7 @@
 ## 🔥My Motto🔥
 <p> 알려주고 싶은 개발자 되기 </p>
 <p> 주변사람 민폐끼치지 않기</p>
-<p> 항상 긍정적으로 생각하려는 노력하기</p>
+<p> 항상 긍정적인 생각 갖기</p>
 
 ## 💻Tech Stack💻
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
