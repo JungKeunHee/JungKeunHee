@@ -9,14 +9,14 @@
 <!-- My CV/resume -->
 
 
-<div align="left">  
+<div align="center">  
     
 ## 🔥My Motto🔥
-<p> 알려주고 싶은 개발자 되기 </p>
-<p> 주변사람 민폐끼치지 않기</p>
-<p> 항상 긍정적인 생각 갖기</p>
+<p> 🧑‍🤝‍🧑알려주고 싶은 개발자 되기🧑‍🤝‍🧑 </p>
+<p> 🙌주변사람 민폐끼치지 않기🙌</p>
+<p> 😄항상 긍정적인 생각 갖기😄</p>
 
-## 💻Tech Stack💻
+## 📚Tech Stack📚
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,11 +33,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## 📞Contact📞
+## 🌈Follow Me🌈
 <span>
-  <a href="https://www.instagram.com/keunhee0920/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+    <a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>&nbsp
+    <a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
+  
+    
 </span>
 
 
