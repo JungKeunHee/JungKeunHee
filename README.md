@@ -33,7 +33,7 @@
 
 ## 🌈Follow Me🌈
 <span>
-    <a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>&nbsp
+    <a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>
     <a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
     <a href="https://www.notion.so/416d316b7dcf4ecabb2e0d353e352062"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/416d316b7dcf4ecabb2e0d353e352062"/></a>
     
