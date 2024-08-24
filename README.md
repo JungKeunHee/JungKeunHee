@@ -38,9 +38,6 @@
     <a href="https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"/></a>
     
 </span>
-
-
-
 </div>
 </div>
 
