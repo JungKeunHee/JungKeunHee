@@ -29,7 +29,7 @@
 <a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
 <a href="https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"/></a>
 
-<br><br>
+<br>
 <div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungKeunHee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
