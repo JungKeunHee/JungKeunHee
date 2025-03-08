@@ -8,21 +8,33 @@
 
 
 <div align="center">  
-    
-## 🔥My Motto🔥
-<p> 🧑‍🤝‍🧑<b>알려주고 싶은 개발자 되기</b>🧑‍🤝‍🧑 </p>
-<p> 🙌<b>꾸준함을 잃지 않기</b>🙌</p>
-<p> 😄<b>항상 긍정적인 생각 갖기</b>😄</p>
 
-## 📚Tech Stack📚
+### 🛠 Backend
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
+<br/>
+
+### 🗄 Database
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+<br/>
+
+### 🎨 Frontend
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<br/>
+
+### 🔧 Version Control
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
 
 
 ## 🛠️Tools🛠️ ##
@@ -33,7 +45,6 @@
 ## 🌈Follow Me🌈
 <a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>
 <a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
-<a href="https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/46e9c10e1b8040d3a6ad8fadf6a972ab?v=272bff20c1dd4d5680f2e09133b29175"/></a>
 
 <br>
 <div align="center">
