@@ -39,7 +39,7 @@
 
 ## 🛠️Tools🛠️ ##
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> -->
 
 
 ## 🌈Follow Me🌈
